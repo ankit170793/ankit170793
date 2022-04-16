@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Yadav
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Angular & Xamarin
+- 👀 I’m interested in Front end development
+- 🌱 I’m currently learning Angular2+, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ankity1707@gmail.com
 
